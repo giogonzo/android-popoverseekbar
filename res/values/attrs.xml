@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PopoverSeekBar">
+        <attr name="content" format="reference" />
+        <attr name="contentLabels" format="reference" />
+        <attr name="progress" format="integer" />
+        <attr name="popoverIndicator" format="reference" />
+        <attr name="popoverBg" format="reference" />
+        <attr name="popoverBelow" format="boolean" />
+        <attr name="popoverTextSize" format="dimension" />
+        <attr name="popoverLineSpacing" format="dimension" />
+        <attr name="popoverMinWidth" format="dimension" />
+        <attr name="popoverMaxWidthRatio" format="float" />
+    </declare-styleable>
+
+</resources>
